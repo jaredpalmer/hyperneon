@@ -1,0 +1,21 @@
+{
+  "name": "hyperneon",
+  "version": "0.0.1",
+  "author": "@jaredpalmer",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaredpalmer/hyperneon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jaredpalmer/hyperneon/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": ["hyperterm"],
+  "description": "Fun Hyperterm theme that rotates neon colors",
+  "dependencies": {}
+}
